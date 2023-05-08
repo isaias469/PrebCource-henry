@@ -1,2 +1,2 @@
-# PrebCource-henry
-este es un repositorio de prueba del m2
+brueba de como prear un repositorio en github y clonarlo en mi computadora
+
